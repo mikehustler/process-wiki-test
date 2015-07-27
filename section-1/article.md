@@ -1,3 +1,3 @@
-## very interesting!
+## Very Interesting!
 
-[take me home](../README.md)
+[🏠](../README.md)
