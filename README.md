@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* [this readme](README.md)
-* [another file](another.md)
-* [A subsection](/section-1)
+* [This readme](README.md)
+* [Another file](another.md)
+* [A Subsection](/section-1)
   - [Article in said subsection](/section-1/article.md)
